@@ -1,0 +1,29 @@
+// Font Sizes
+$base-font-size: 18px;
+$em-base: $base-font-size;
+$base-font-family: 'Open Sans Hebrew', sans-serif;
+$heading-font-family: $base-font-family;
+
+// Line height
+$base-line-height: 1.1;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$width: 980px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$yellow: #ff9300;
+$gray-dark: #3e3e3e;
+$gray-light: #ddd;
+
+// Font Colors
+$base-font-color: $gray-dark;
+
+// Border
+$base-border-color: $gray-light;
+
+// Background Colors
+$base-background-color: #fff;
